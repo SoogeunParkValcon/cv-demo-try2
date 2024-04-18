@@ -1,6 +1,2 @@
 Flask==3.0.3
 gunicorn 
-ultralytics
-werkzeug
-opencv-python==4.9.0.80
-#
