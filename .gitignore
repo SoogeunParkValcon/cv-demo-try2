@@ -16,6 +16,9 @@ research/
 
 # video files
 *.mp4
+*.MOV
+*.mov
+/uploads
 
 
 # Distribution / packaging
