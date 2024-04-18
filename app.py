@@ -5,6 +5,7 @@ from werkzeug.utils import secure_filename
 from ultralytics import YOLO
 
 app = Flask(__name__)
+
 detector = YOLO("yolov8n.pt")
 
 app.config.from_pyfile('config.py')
